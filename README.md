@@ -1,2 +1,2 @@
 # brick-breaker
-sammy likes little kids
+sammy likes kids
